@@ -20,7 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="CefSharp.Common" Version="75.1.142" />
+    <PackageReference Include="CefSharp.Common" Version="98.1.210" />
     <PackageReference Include="CefSharp.OffScreen" Version="75.1.142" />
   </ItemGroup>
 
