@@ -131,7 +131,7 @@
       <Version>75.1.142</Version>
     </PackageReference>
     <PackageReference Include="CefSharp.Wpf">
-      <Version>75.1.142</Version>
+      <Version>98.1.210</Version>
     </PackageReference>
     <PackageReference Include="ToastNotifications.Messages">
       <Version>2.5.1</Version>
